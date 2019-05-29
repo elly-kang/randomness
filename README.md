@@ -1,2 +1,2 @@
-# randomness
-random thingy i tried to do
+# randomproject
+okay it worked haha
